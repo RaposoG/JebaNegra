@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="pau preto" modversion="1.0.17" corepackage="False" gameversion="1.7.7.0">
+  <Submarine file="%ModDir%/Jeba Negra Mk.2.sub" />
+</contentpackage>
